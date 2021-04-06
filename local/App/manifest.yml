@@ -1,0 +1,4 @@
+- name: loan_web
+  repositoryUrl: "git@bitbucket.org:Zekaee/loan.git"
+  hosts:
+    - "web.loan-local.com"

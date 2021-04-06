@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Loan.Data\Loan.Data.csproj" />
+    <ProjectReference Include="..\Loan.Core\Loan.Core.csproj" />
+  </ItemGroup>
+  <PropertyGroup>
+    <OutputPath>..\..\output</OutputPath>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,6 @@
+- name: identity
+  repositoryUrl: 
+  hosts:
+    - "identity.loan-local.com"
+    - "web.loan-local.com"
+    - "pgadmin.loan-local.com"
